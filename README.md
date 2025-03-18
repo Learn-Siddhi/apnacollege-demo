@@ -1,3 +1,3 @@
 # apnacollege-demo
 first repo
-Author - Siddhi Tilekar
+Author - Siddhi Sanjay Tilekar
